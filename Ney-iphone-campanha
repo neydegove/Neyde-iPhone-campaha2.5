@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ney - Quero um iPhone 16 Pro Max!</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <div class="logo">NEY ≡</div>
+    <h1>Quer me ajudar a ter um iPhone 16 Pro Max?</h1>
+    <p>Você já imaginou alguém tão digno de um iPhone quanto eu? Pois é... sou eu! E estou aqui pedindo ajuda pra realizar meu sonho tecnológico.</p>
+    <button class="cta-button">Doe Agora</button>
+  </header>
+
+  <!-- Section: Motivos para Doar -->
+  <section id="why-donate">
+    <h2>Motivos para Doar</h2>
+    <ul>
+      <li><strong>Eu mereço:</strong> Não ganhei na loteria nem fiquei famoso no TikTok, então preciso da ajuda de vocês!</li>
+      <li><strong>Impacto positivo:</strong> Com esse iPhone, vou poder tirar fotos incríveis, gravar vídeos engraçados e até aprender coisas novas!</li>
+      <li><strong>Garantia de ser real:</strong> Aqui está meu email oficial: <a href="mailto:neydegove321@gmail.com">neydegove321@gmail.com</a>. Pode entrar em contato comigo diretamente!</li>
+    </ul>
+  </section>
+
+  <!-- Section: Divertimento -->
+  <section id="fun-facts">
+    <h2>Fatos Divertidos Sobre Mim</h2>
+    <p>Além de querer um iPhone, aqui estão algumas coisas legais sobre mim:</p>
+    <ul>
+      <li>Sou expert em salvar dinheiro comprando doces baratos.</li>
+      <li>Já tentei ganhar sorteio de iPhones em redes sociais (não funcionou 😅).</li>
+      <li>Minha maior conquista foi convencer minha mãe a comprar um celular básico...</li>
+    </ul>
+  </section>
+
+  <!-- Section: Como Doar -->
+  <section id="how-to-donate">
+    <h2>Como Posso te Ajudar?</h2>
+    <p>Seja qual for o valor, cada contribuição faz diferença!</p>
+    <div class="donation-options">
+      <a href="https://mpesa.com/ " target="_blank" class="donation-button">💰 Doar via M-Pesa</a>
+      <a href="mailto:neydegove321@gmail.com" class="donation-button">📧 Contatar por Email</a>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 - Campanha Oficial: "Ney merece um iPhone"</p>
+    <p>Divirta-se enquanto doa! 💻📱✨</p>
+  </footer>
+
+</body>
+</html>
